@@ -61,8 +61,8 @@ python stimi.py
 
 ## What's Included
 
-- `stimi.ipynb` - Interactive Jupyter notebook with visualizations
-- `stimi.py` - Standalone Python script version
+- `stimilation_data.ipynb` - Interactive Jupyter notebook with visualizations
+- `stimilation_data.py` - Standalone Python script version
 - `requirements.txt` - Python dependencies
 - `warehouse_simulation_data.csv` - Generated after running (output file)
 
